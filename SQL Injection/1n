@@ -9,3 +9,6 @@ ANSWER: UNION
 
 4. What SQL statement is used to add data?
 ANSWER: INSERT
+
+5. What character signifies the end of an SQL query?
+ANSWER: ;
