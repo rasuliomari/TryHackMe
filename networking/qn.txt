@@ -18,3 +18,6 @@ answer: 5
 
 7. Which layer accepts communication requests from applications?
 answer: 7
+
+8. Which layer handles logical addressing?
+answer: 3
