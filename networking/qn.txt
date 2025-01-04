@@ -12,3 +12,6 @@ answer: 1
 
 5. Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format?
 answer: 6
+
+6. Which layer tracks communications between the host and receiving computers?
+answer: 5
