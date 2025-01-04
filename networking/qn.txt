@@ -3,3 +3,6 @@ answer: 4
 
 2. Which layer checks received information to make sure that it hasn't been corrupted?
 answer: 2
+
+3. In which layer would data be formatted in preparation for transmission?
+answer: 2
