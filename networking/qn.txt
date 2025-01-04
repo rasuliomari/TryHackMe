@@ -9,3 +9,6 @@ answer: 2
 
 4. Which layer transmits and receives data?
 answer: 1
+
+5. Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format?
+answer: 6
