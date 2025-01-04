@@ -15,3 +15,6 @@ answer: 6
 
 6. Which layer tracks communications between the host and receiving computers?
 answer: 5
+
+7. Which layer accepts communication requests from applications?
+answer: 7
