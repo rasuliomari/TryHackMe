@@ -21,3 +21,6 @@ answer: 7
 
 8. Which layer handles logical addressing?
 answer: 3
+
+9. When sending data over TCP, what would you call the "bite-sized" pieces of data? 
+answer: segments
