@@ -6,3 +6,6 @@ answer: ss (socket statistics)
 
 3. How would you limit your Google search to PDF files containing the terms cyber warfare report?
 answer: filetype:pdf "cyber warfare report"
+
+4. What phrase does the Linux command ss stand for?
+answer: socket statistics
