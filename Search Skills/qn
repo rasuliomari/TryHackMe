@@ -20,4 +20,7 @@ answer: Android.Riskware.Agent.LHH
 answer: xz
 
 8. What does the Linux command cat stand for?
-answer: 
+answer: concatenate
+
+9. What is the netstat parameter in MS Windows that displays the executable associated with each active connection and listening port?
+answer: -
