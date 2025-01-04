@@ -27,3 +27,6 @@ answer: segments
 
 10. Which layer would the FTP protocol communicate with?
 answer: 7
+
+11. Which transport layer protocol would be best suited to transmit a live video?
+answer: UDP
