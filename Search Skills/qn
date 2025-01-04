@@ -3,3 +3,6 @@ answer: snake oil
 
 2. What is the name of the command replacing netstat in Linux systems?
 answer: ss (socket statistics)
+
+3. How would you limit your Google search to PDF files containing the terms cyber warfare report?
+answer: filetype:pdf "cyber warfare report"
