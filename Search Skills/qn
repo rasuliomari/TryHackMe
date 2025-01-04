@@ -15,3 +15,6 @@ answer: united states
 
 6. What does BitDefenderFalx detect the file with the hash 2de70ca737c1f4602517c555ddd54165432cf231ffc0e21fb2e23b9dd14e7fb4 as?
 answer: Android.Riskware.Agent.LHH
+
+7. What utility does CVE-2024-3094 refer to?
+answer: xz
