@@ -24,3 +24,6 @@ answer: 3
 
 9. When sending data over TCP, what would you call the "bite-sized" pieces of data? 
 answer: segments
+
+10. Which layer would the FTP protocol communicate with?
+answer: 7
