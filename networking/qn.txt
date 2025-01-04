@@ -6,3 +6,6 @@ answer: 2
 
 3. In which layer would data be formatted in preparation for transmission?
 answer: 2
+
+4. Which layer transmits and receives data?
+answer: 1
