@@ -45,3 +45,6 @@ answer: Data Link
 
 16. Does encapsulation provide an extra layer of security (Aye/Nay)?
 answer: Aye
+
+17. Which model was introduced first, OSI or TCP/IP?
+answer: TCP/IP
