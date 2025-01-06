@@ -42,3 +42,6 @@ answer: De-encapsulation
 
 15. Which is the only layer of the OSI model to add a trailer during encapsulation?
 answer: Data Link
+
+16. Does encapsulation provide an extra layer of security (Aye/Nay)?
+answer: Aye
