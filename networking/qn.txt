@@ -33,3 +33,6 @@ answer: UDP
 
 12. How would you refer to data at layer 2 of the encapsulation process (with the OSI model)?
 answer: Frames
+
+13. How would you refer to data at layer 4 of the encapsulation process (with the OSI model), if the UDP protocol has been selected?
+answer: Datagrams
