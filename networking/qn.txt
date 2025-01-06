@@ -36,3 +36,6 @@ answer: Frames
 
 13. How would you refer to data at layer 4 of the encapsulation process (with the OSI model), if the UDP protocol has been selected?
 answer: Datagrams
+
+14. What process would a computer perform on a received message?
+answer: De-encapsulation
