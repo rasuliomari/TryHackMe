@@ -13,4 +13,7 @@ answer: Octet
 5. How many sections (in digits) does an IP address have? 
 answer: 4
 
+6. What does the term "MAC" stand for?
+answer: Media Access Control
+
 THM{YOU_GOT_ON_TRYHACKME}
