@@ -3,3 +3,6 @@ answer: Domain Name System
 
 2. What is the maximum length of a subdomain?
 answer: 63
+
+3. Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
+answer: _
