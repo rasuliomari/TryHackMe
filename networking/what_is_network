@@ -7,4 +7,7 @@ answer: Tim Berners-Lee
 3. What does the term "IP" stand for?
 answer: Internet Protocol
 
+4. What is each section of an IP address called?
+answer: Octet
+
 THM{YOU_GOT_ON_TRYHACKME}
