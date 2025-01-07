@@ -18,3 +18,8 @@ answer: Media Access Control
 
 7. Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
 answer: THM{YOU_GOT_ON_TRYHACKME}
+
+{Ping questions}
+
+8. What protocol does ping use?
+answer: ICMP
