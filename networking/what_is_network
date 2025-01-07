@@ -16,4 +16,5 @@ answer: 4
 6. What does the term "MAC" stand for?
 answer: Media Access Control
 
-THM{YOU_GOT_ON_TRYHACKME}
+7. Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+answer: THM{YOU_GOT_ON_TRYHACKME}
