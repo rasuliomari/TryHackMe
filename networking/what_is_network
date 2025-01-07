@@ -10,4 +10,7 @@ answer: Internet Protocol
 4. What is each section of an IP address called?
 answer: Octet
 
+5. How many sections (in digits) does an IP address have? 
+answer: 4
+
 THM{YOU_GOT_ON_TRYHACKME}
