@@ -23,3 +23,6 @@ answer: THM{YOU_GOT_ON_TRYHACKME}
 
 8. What protocol does ping use?
 answer: ICMP
+
+9. What is the syntax to ping 10.10.10.10?
+answer: ping 10.10.10.10
