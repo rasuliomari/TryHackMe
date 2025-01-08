@@ -15,3 +15,6 @@ answer: ccTLD
 
 6. What field specifies how long a DNS record should be cached for?
 answer: TTL
+
+7. What type of DNS Server is usually provided by your ISP?
+answer: recursive
