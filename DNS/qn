@@ -18,3 +18,6 @@ answer: TTL
 
 7. What type of DNS Server is usually provided by your ISP?
 answer: recursive
+
+8. What type of server holds all the records for a domain?
+answer: authoritative
