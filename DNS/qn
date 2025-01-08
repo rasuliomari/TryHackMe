@@ -12,3 +12,6 @@ answer: 253
 
 5. What type of TLD is .co.uk?
 answer: ccTLD
+
+6. What field specifies how long a DNS record should be cached for?
+answer: TTL
