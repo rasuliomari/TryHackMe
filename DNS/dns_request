@@ -1,2 +1,4 @@
 What happens when you make a DNS request
+
 When you request a domain name, your computer first checks its local cache to see if you've previously looked up the address recently; if not, a request to your Recursive DNS Server will be made.
+
