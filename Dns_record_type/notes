@@ -4,3 +4,6 @@ DNS isn't just for websites though, and multiple types of DNS record exist. We'l
 
 1. A Record
 These records resolve to IPv4 addresses, for example 104.26.10.229
+
+2. AAAA Record
+These records resolve to IPv6 addresses, for example 2606:4700:20::681a:be5
