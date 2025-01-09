@@ -1,3 +1,6 @@
 DNS Record Types
 
 DNS isn't just for websites though, and multiple types of DNS record exist. We'll go over some of the most common ones that you're likely to come across.
+
+1. A Record
+These records resolve to IPv4 addresses, for example 104.26.10.229
