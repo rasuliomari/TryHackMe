@@ -1,2 +1,5 @@
 1. What type of record would be used to advise where to send email?
 answer: MX
+
+2. What type of record handles IPv6 addresses?
+answer: AAAA
