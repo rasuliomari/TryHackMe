@@ -5,3 +5,6 @@ One of the primary steps in ensuring an organization's security is to maintain a
 
 2. Security Policies
 An organization needs robust security policies to maintain a sound security posture. A security engineer helps the organization create security policies based on established Security Principles. These policies are then implemented organization-wide, and the security engineer ensures that the implementation follows the letter and spirit of the policies. Sometimes, a need arises for granting exceptions to the security policies due to business needs. In such scenarios, the security engineer consults the security principles to allow or deny exceptions and suggest mitigating steps to minimize risks. 
+
+3. Secure by Design
+A security engineer ensures that the organization is secure by design. The engineer understands that the security posture receives the most Return on Investment (ROI) if it follows a secure-by-design philosophy. This means that the security engineer takes steps to implement a Secure Network Architecture (room coming soon!), ensures the organization's Windows, Linux, and Active Directory are hardened, and software development follows the Secure Software Development Lifecycle.
