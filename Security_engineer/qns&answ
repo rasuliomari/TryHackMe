@@ -5,3 +5,6 @@ question on responsibilities of security engineer
 
 1. Where are details about an organization's digital assets, such as name, IP address, and owner, stored?
 answer: Asset inventory
+
+2. Sometimes security policies can't be followed because of business needs. What avenue does a security engineer have to fulfil business needs in these cases?
+answer: Exceptions
