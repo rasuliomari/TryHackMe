@@ -8,3 +8,6 @@ answer: Asset inventory
 
 2. Sometimes security policies can't be followed because of business needs. What avenue does a security engineer have to fulfil business needs in these cases?
 answer: Exceptions
+
+3. What philosophy, if followed, provides the most Return on Investment (ROI)?
+answer: Secure by design
