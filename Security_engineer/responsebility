@@ -21,3 +21,5 @@ A security engineer might sometimes be required to configure or fine-tune securi
 
 2. Tabletop Exercises
 Tabletop exercises are often conducted to gauge the operational readiness of an organization from a security point of view. Certain scenarios are identified to be exercised, and security team members must explain their respective roles in the scenarios under discussion. For example, a scenario might include the compromise of an endpoint device through a phishing email. All the team members will then explain their respective steps per the organization's playbooks. The security engineer is sometimes required to conduct these exercises.
+
+3. Disaster Recovery and Crisis Management
