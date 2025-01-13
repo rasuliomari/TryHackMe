@@ -18,3 +18,5 @@ As discussed previously, the security engineer's role is often loosely defined a
 
 1. Managing Security Tooling
 A security engineer might sometimes be required to configure or fine-tune security tools such as SIEMs, Firewalls, WAFs, EDRs, and more. In some organizations, that might also be the primary responsibility of a security engineer. In such a role, a security engineer might also be making decisions or providing input to decision-makers about tools to procure based on the organization's requirements and the engineer's assessments of competitive tools.
+
+2. Tabletop Exercises
