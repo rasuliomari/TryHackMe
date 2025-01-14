@@ -4,3 +4,4 @@ In the Junior Security Analyst role, you will be a Triage Specialist. You will s
 The responsibilities for a Junior Security Analyst or Tier 1 SOC Analyst include:
 1) Monitor and investigate the alerts (most of the time, it's a 24x7 SOC operations environment)
 2) Configure and manage the security tools
+3) Develop and implement basic IDS (Intrusion Detection System) signatures
