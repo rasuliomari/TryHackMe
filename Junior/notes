@@ -46,3 +46,6 @@ Junior Security Analysts play a crucial role in the investigation procedure. The
 
 3. Response 
 After the investigation, the SOC team coordinates and takes action on the compromised hosts, which involves isolating the hosts from the network, terminating the malicious processes, deleting files, and more. 
+
+
+{third part}
