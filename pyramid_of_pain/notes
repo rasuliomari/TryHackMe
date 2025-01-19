@@ -17,3 +17,5 @@ As per Microsoft, the hash value is a numeric value of a fixed length that uniqu
 A hash is not considered to be cryptographically secure if two files have the same hash value or digest.
 
 Security professionals usually use the hash values to gain insight into a specific malware sample, a malicious or a suspicious file, and as a way to uniquely identify and reference the malicious artifact. 
+
+You've probably read ransomware reports in the past, where security researchers would provide the hashes related to the malicious or suspicious files used at the end of the report. You can check out The DFIR Report and FireEye Threat Research Blogs if you’re interested in seeing an example.
