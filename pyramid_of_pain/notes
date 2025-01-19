@@ -21,3 +21,5 @@ Security professionals usually use the hash values to gain insight into a specif
 You've probably read ransomware reports in the past, where security researchers would provide the hashes related to the malicious or suspicious files used at the end of the report. You can check out The DFIR Report and FireEye Threat Research Blogs if you’re interested in seeing an example.
 
 Various online tools can be used to do hash lookups like VirusTotal and Metadefender Cloud - OPSWAT.
+
+As you might have noticed, it is really easy to spot a malicious file if we have the hash in our arsenal.  However, as an attacker, modifying a file by even a single bit is trivial, which would produce a different hash value. With so many variations and instances of known malware or ransomware, threat hunting using file hashes as the IOC (Indicators of Compromise) can become difficult.
