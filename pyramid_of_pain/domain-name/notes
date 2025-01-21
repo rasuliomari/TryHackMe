@@ -16,3 +16,5 @@ What is Punycode? As per Wandera, "Punycode is a way of converting words that ca
 What you saw in the URL above is adıdas.de which has the Punycode of http://xn--addas-o4a.de/
 Internet Explorer, Google Chrome, Microsoft Edge, and Apple Safari are now pretty good at translating the obfuscated characters into the full Punycode domain name.
 To detect malicious domains, proxy logs or web server logs can be used.
+Attackers usually hide the malicious domains under URL shorteners. A URL Shortener is a tool that creates a short and unique URL that will redirect to the specific website specified during the initial step of setting up the URL Shortener link. The attackers normally use the following URL-shortening services to generate malicious links: 
+1. bit.ly
