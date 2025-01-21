@@ -1,0 +1,3 @@
+Let's step up the Pyramid of Pain and move on to Domain Names. You can see the transition of colors - from green to teal.
+Domain Names can be thought as simply mapping an IP address to a string of text. A domain name can contain a domain and a top-level domain (evilcorp.com) or a sub-domain followed by a domain and top-level domain (tryhackme.evilcorp.com). But we will not go into the details of how the Domain Name System (DNS) works. You can learn more about DNS in this "DNS in Detail" Room. 
+
