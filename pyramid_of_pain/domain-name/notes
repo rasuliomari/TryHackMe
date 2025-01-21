@@ -10,3 +10,5 @@ https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/
 Can you spot anything malicious in the above screenshot? Now, compare it to the legitimate website view below:
 
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/7c4329f6d1d09a739097f818dc42e733.png
+
+This is one of the examples of a Punycode attack used by the attackers to redirect users to a malicious domain that seems legitimate at first glance.
