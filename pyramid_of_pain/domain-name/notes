@@ -12,3 +12,7 @@ Can you spot anything malicious in the above screenshot? Now, compare it to the 
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/7c4329f6d1d09a739097f818dc42e733.png
 
 This is one of the examples of a Punycode attack used by the attackers to redirect users to a malicious domain that seems legitimate at first glance.
+What is Punycode? As per Wandera, "Punycode is a way of converting words that cannot be written in ASCII, into a Unicode ASCII encoding."
+What you saw in the URL above is adıdas.de which has the Punycode of http://xn--addas-o4a.de/
+Internet Explorer, Google Chrome, Microsoft Edge, and Apple Safari are now pretty good at translating the obfuscated characters into the full Punycode domain name.
+To detect malicious domains, proxy logs or web server logs can be used.
