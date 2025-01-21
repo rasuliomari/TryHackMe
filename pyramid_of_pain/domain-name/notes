@@ -4,3 +4,5 @@ Domain Names can be thought as simply mapping an IP address to a string of text.
 Domain Names can be a little more of a pain for the attacker to change as they would most likely need to purchase the domain, register it and modify DNS records. Unfortunately for defenders, many DNS providers have loose standards and provide APIs to make it even easier for the attacker to change the domain.
 
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/efcc44de8368a8cc7d99148f560ae2fd.png
+
+https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/03ad636820590525bdd91e28a04bbec1.png
