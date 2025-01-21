@@ -32,3 +32,7 @@ https://tryhackme-images.s3.amazonaws.com/user-uploads/5c549500924ec576f953d9fc/
 Viewing Connections in Any.run:
 Because Any.run is a sandboxing service that executes the sample, we can review any connections such as HTTP requests, DNS requests or processes communicating with an IP address. To do so, we can look at the "networking" tab located just below the snapshot of the machine.
 Please note: you should be extremely cautious about visiting any of the IP addresses or HTTP requests made in a report. After all, these are behaviours from the malware sample - so they're probably doing something dangerous!
+
+1. HTTP Requests:
+This tab shows the recorded HTTP requests since the detonation of the sample. This can be useful to see what resources are being retrieved from a webserver, such as a dropper or a callback.
+https://assets.tryhackme.com/additional/pyramidofpain/t4/http%20requests.png
