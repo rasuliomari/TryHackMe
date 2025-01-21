@@ -18,3 +18,5 @@ Internet Explorer, Google Chrome, Microsoft Edge, and Apple Safari are now prett
 To detect malicious domains, proxy logs or web server logs can be used.
 Attackers usually hide the malicious domains under URL shorteners. A URL Shortener is a tool that creates a short and unique URL that will redirect to the specific website specified during the initial step of setting up the URL Shortener link. The attackers normally use the following URL-shortening services to generate malicious links: 
 1. bit.ly
+2. goo.gl
+3. ow.ly
