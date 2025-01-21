@@ -25,3 +25,7 @@ Attackers usually hide the malicious domains under URL shorteners. A URL Shorten
 6. tiny.pl
 7. tinyurl.com
 8. x.co
+
+You can see the actual website the shortened link is redirecting you to by appending "+" to it (see the examples below). Type the shortened URL in the address bar of the web browser and add the above characters to see the redirect URL. 
+NOTE: The examples of the shortened links below are non-existent.
+https://tryhackme-images.s3.amazonaws.com/user-uploads/5c549500924ec576f953d9fc/room-content/78481d27921134df9daab358a42ff5d0.png
