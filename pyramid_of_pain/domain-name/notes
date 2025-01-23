@@ -41,4 +41,6 @@ https://assets.tryhackme.com/additional/pyramidofpain/t4/http%20requests.png
 This tab shows any communications made since the detonation of the sample. This can be useful to see if a process communicates with another host. For example, this could be C2 traffic, uploading/downloading files over FTP, etc.
 https://assets.tryhackme.com/additional/pyramidofpain/t4/connections.png
 
+3. DNS Requests:
+This tab shows the DNS requests made since the detonation of the sample. Malware often makes DNS requests to check for internet connectivity (I.e. if It can't reach the internet/call home, then it's probably being sandboxed or is useless). 
 
