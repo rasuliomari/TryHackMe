@@ -37,3 +37,7 @@ Please note: you should be extremely cautious about visiting any of the IP addre
 This tab shows the recorded HTTP requests since the detonation of the sample. This can be useful to see what resources are being retrieved from a webserver, such as a dropper or a callback.
 https://assets.tryhackme.com/additional/pyramidofpain/t4/http%20requests.png
 
+2. Connections:
+This tab shows any communications made since the detonation of the sample. This can be useful to see if a process communicates with another host. For example, this could be C2 traffic, uploading/downloading files over FTP, etc.
+
+
