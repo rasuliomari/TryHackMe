@@ -43,4 +43,5 @@ https://assets.tryhackme.com/additional/pyramidofpain/t4/connections.png
 
 3. DNS Requests:
 This tab shows the DNS requests made since the detonation of the sample. Malware often makes DNS requests to check for internet connectivity (I.e. if It can't reach the internet/call home, then it's probably being sandboxed or is useless). 
+https://assets.tryhackme.com/additional/pyramidofpain/t4/dnsrequests.png
 
