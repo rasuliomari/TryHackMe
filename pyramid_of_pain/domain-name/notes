@@ -39,5 +39,6 @@ https://assets.tryhackme.com/additional/pyramidofpain/t4/http%20requests.png
 
 2. Connections:
 This tab shows any communications made since the detonation of the sample. This can be useful to see if a process communicates with another host. For example, this could be C2 traffic, uploading/downloading files over FTP, etc.
+https://assets.tryhackme.com/additional/pyramidofpain/t4/connections.png
 
 
