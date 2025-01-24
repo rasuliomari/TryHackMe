@@ -5,3 +5,6 @@ Host artifacts are the traces or observables that attackers leave on the system,
 
 1. Suspicious process execution from Word: 
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/6b91c7de5654b7f285991787cb3bb4fe.png
+
+Suspicious events followed by opening a malicious application: 
+https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/6d742c9c22f99f30e3c8356ef7c36800.png
