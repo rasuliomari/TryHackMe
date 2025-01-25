@@ -1,2 +1,5 @@
 1. A security vendor has analysed the malicious sample for us. Review the report here to answer the following questions.
 answer: 
+
+2. A process named regidle.exe makes a POST request to an IP address based in the United States (US) on port 8080. What is the IP address?
+answer: 96.126.101.6
