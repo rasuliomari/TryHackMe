@@ -3,3 +3,6 @@ answer:
 
 2. A process named regidle.exe makes a POST request to an IP address based in the United States (US) on port 8080. What is the IP address?
 answer: 96.126.101.6
+
+3. The actor drops a malicious executable (EXE). What is the name of this executable?
+answer: G_jugk.exe
