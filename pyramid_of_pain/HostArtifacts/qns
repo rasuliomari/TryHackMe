@@ -6,3 +6,6 @@ answer: 96.126.101.6
 
 3. The actor drops a malicious executable (EXE). What is the name of this executable?
 answer: G_jugk.exe
+
+4. Look at this report by Virustotal. How many vendors determine this host to be malicious?
+answer: 9
