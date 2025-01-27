@@ -12,3 +12,5 @@ https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/
 Let's use TShark to filter out the User-Agent strings by using the following command: tshark --Y http.request -T fields -e http.host -e http.user_agent -r analysis_file.pcap 
 
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/642cac93b8c5b7bf8c82d448cb48c1d1.png
+
+These are the most common User-Agent strings found for the Emotet Downloader Trojan
