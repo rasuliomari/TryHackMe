@@ -5,3 +5,5 @@ At this stage, we have levelled﻿ up our detection capabilities against the art
 Attackers would use the utilities to create malicious macro documents (maldocs) for spearphishing attempts, a backdoor that can be used to establish C2 (Command and Control Infrastructure), any custom .EXE, and .DLL files, payloads, or password crackers.
 
 A Trojan dropped the suspicious "Stealer.exe" in the Temp folder:
+
+https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/20624b49722fd8d0ba062d6206c1d021.png
