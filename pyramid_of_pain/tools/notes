@@ -7,3 +7,5 @@ Attackers would use the utilities to create malicious macro documents (maldocs) 
 A Trojan dropped the suspicious "Stealer.exe" in the Temp folder:
 
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/20624b49722fd8d0ba062d6206c1d021.png
+
+The execution of the suspicious binary:
