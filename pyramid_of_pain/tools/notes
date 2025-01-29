@@ -13,3 +13,5 @@ The execution of the suspicious binary:
 https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/8638b80dc730bfc88e37633f648b15e2.png
 
 Antivirus signatures, detection rules, and YARA rules can be great weapons for you to use against attackers at this stage.
+
+MalwareBazaar and Malshare are good resources to provide you with access to the samples, malicious feeds, and YARA results - these all can be very helpful when it comes to threat hunting and incident response. 
